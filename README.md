@@ -1,1 +1,1 @@
-**This file is mandatory in all Holberton School Projects**
+**My repository for Holberton Projects Week 0**
